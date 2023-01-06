@@ -18,8 +18,8 @@ Hi, I'm Nael!<br><br>👀 I’m interested in ... anime, sports, gaming, and fis
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### In the zone!
+<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NaelHub&icon=0&color=11)](https://visitcount.itsvg.in)
